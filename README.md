@@ -19,7 +19,7 @@
 6. *Horizontal_Distance_To_Roadways* - Horz Dist to nearest roadway.
 
 *HillShade Index:-*
-Hillshade is used to visualize the hypothetical illumination value (from 0-255) of each pixel on a surface given a specified light source. ![image.png](attachment:image.png).Hillshading computes surface illumination as values from 0 to 255 based on a given compass direction to the sun (azimuth) and a certain altitude above the horizon (altitude)
+Hillshade is used to visualize the hypothetical illumination value (from 0-255) of each pixel on a surface given a specified light source. ![image.png](image.gif).Hillshading computes surface illumination as values from 0 to 255 based on a given compass direction to the sun (azimuth) and a certain altitude above the horizon (altitude)
 
 7. *Hillshade_9am (0 to 255 index)* - Hillshade index at 9am, summer solstice.
 
